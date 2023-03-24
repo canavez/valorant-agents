@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.e6bd2bcb.css",
-    "main.js": "/react-gh-pages/static/js/main.fdcfb479.js",
-    "static/js/787.49b3de8a.chunk.js": "/react-gh-pages/static/js/787.49b3de8a.chunk.js",
-    "static/media/logo.png": "/react-gh-pages/static/media/logo.169e517e8f0e91825ed2.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.e6bd2bcb.css.map": "/react-gh-pages/static/css/main.e6bd2bcb.css.map",
-    "main.fdcfb479.js.map": "/react-gh-pages/static/js/main.fdcfb479.js.map",
-    "787.49b3de8a.chunk.js.map": "/react-gh-pages/static/js/787.49b3de8a.chunk.js.map"
+    "main.css": "/valorant-agents/static/css/main.e6bd2bcb.css",
+    "main.js": "/valorant-agents/static/js/main.97300ee4.js",
+    "static/js/787.49b3de8a.chunk.js": "/valorant-agents/static/js/787.49b3de8a.chunk.js",
+    "static/media/logo.png": "/valorant-agents/static/media/logo.169e517e8f0e91825ed2.png",
+    "index.html": "/valorant-agents/index.html",
+    "main.e6bd2bcb.css.map": "/valorant-agents/static/css/main.e6bd2bcb.css.map",
+    "main.97300ee4.js.map": "/valorant-agents/static/js/main.97300ee4.js.map",
+    "787.49b3de8a.chunk.js.map": "/valorant-agents/static/js/787.49b3de8a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6bd2bcb.css",
-    "static/js/main.fdcfb479.js"
+    "static/js/main.97300ee4.js"
   ]
 }
